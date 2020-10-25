@@ -1,5 +1,3 @@
 <h1 align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiritsu&hide_border=true&theme=radical&show_icons=true&count_private=true" />
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiritsu&layout=compact&hide_border=true&theme=radical&show_icons=true&count_private=true" />
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=kiritsu&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiritsu&layout=compact&theme=radical&hide_border=true"/>
 </h1>
