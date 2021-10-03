@@ -15,8 +15,8 @@ Proficient level
 
 Intermediate level
   - Java
-  - PHP
-  - JavaScript (React) / TypeScript (Angular)
+  - PHP (Vanilla, Symfony)
+  - JavaScript (Vanilla, React) / TypeScript (Angular)
   - C++ / C
 
 Beginner level
