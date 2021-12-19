@@ -2,11 +2,11 @@ Hello there!
 
 I'm a French software engineering student living in Le Havre, Normandy.
 
-I have been programming as a hobby since I was 14. I have been studying IT in Le Havre, France, for 5 years. This year is my last year of university. 
+I have been programming as a hobby since I was 14. I have been studying IT in Le Havre, France, for 5 years. This year is my last year of university before getting my Master of Science
 
 I mainly use the .NET ecosystem but I'm fine with other tech' aswell. My thing is mostly backend and pure software programming. I also like doing some reverse engineering things and also making scripts to make my life easier.
 
-I really like doing OpenSource. However, with my current life (university + work in a company), I'm not really active anymore and don't really contribute to anything, except when I feel like to.
+I really like doing OpenSource. However, with my current life (university + work in a company), I'm not really active anymore and don't really contribute to anything, except when I feel like to. I'm still trying to maintain my own public projects tho... (OsuSharp, UploadR)
 
 ## Languages
 
