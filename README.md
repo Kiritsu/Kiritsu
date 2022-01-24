@@ -2,7 +2,7 @@ Hello there!
 
 I'm a French software engineering student living in Le Havre, Normandy.
 
-I have been programming as a hobby since I was 14. I have been studying IT in Le Havre, France, for 5 years. This year is my last year of university before getting my Master of Science
+I have been programming as a hobby since I was 14. I have been studying IT in Le Havre, France, for 5 years. This year is my last year of university before getting my Master of Science. I'm also doing a work-study course which means I'm currently working for an IT company. 
 
 I mainly use the .NET ecosystem but I'm fine with other tech' aswell. My thing is mostly backend and pure software programming. I also like doing some reverse engineering things and also making scripts to make my life easier.
 
@@ -16,7 +16,7 @@ Proficient level
 Intermediate level
   - Java
   - PHP (Vanilla, Symfony)
-  - JavaScript (Vanilla, React) / TypeScript (Angular)
+  - JavaScript / TypeScript (Vanilla, React)
   - C++ / C
 
 Beginner level
