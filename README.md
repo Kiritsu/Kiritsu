@@ -31,7 +31,7 @@ Beginner level / Played with
   - Git
   - Docker
   - Ansible
-  - CI/CD with Azure-Pipelines, GitLab-ci, AppVeyor
+  - CI/CD with Azure-Pipelines, GitLab-ci, AppVeyor, Github Actions
 
 ## Stats
 
