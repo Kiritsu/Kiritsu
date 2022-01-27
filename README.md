@@ -19,11 +19,13 @@ Intermediate level
   - JavaScript / TypeScript (Vanilla, React)
   - C++ / C
 
-Beginner level
+Beginner level / Played with
   - Python
   - Shell
   - Bash
   - PowerShell
+  - Dart
+  - Go
 
 ## Tools
   - Git
