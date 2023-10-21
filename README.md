@@ -11,7 +11,7 @@ I really like doing OpenSource. I'm not really active anymore and don't really c
 ## Languages
 
 Proficient level
-  - CSharp (.NET FX, Core, 6-7, ASP.NET Core, EFCore)
+  - CSharp (.NET 8; ASP.NET Core - Blazor, EF Core, Microsoft Extensions, ...)
 
 Intermediate level
   - Java
